@@ -8,7 +8,7 @@ using UnityEngine.UIElements;
 public class BossController : MonoBehaviour
 {
     [Header("Health")]
-    [SerializeField] private int maxHp = 300;
+    [SerializeField] private int maxHp = 400;
     [SerializeField] private int scoreValue = 5000;
 
     [Header("Attack")]
