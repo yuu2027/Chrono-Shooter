@@ -74,19 +74,3 @@ Unity Editor でプロジェクトを開き、`TitleScene` または `GameScene`
 
 - `Asap` / `Righteous` は SIL Open Font License のフォント素材として使用しています。
 - TextMesh Pro 付属フォントやリソースは Unity / TextMesh Pro の提供物として扱います。
-
-### Assets to Confirm
-
-以下の素材はプロジェクト内の `.meta` からインポート元の名前は確認できますが、正式な配布ページ、作者名、またはライセンス表記は追加確認が必要です。
-
-| Asset / Source Name | Used For | Notes |
-| --- | --- | --- |
-| `Grenade Sound FX` | 爆発、撃破、破壊系SE | `Assets/Grenade Sound FX/Grenade/...` 由来の音声を使用 |
-| `Music Packs/Ambient Sci-Fi` | タイトル、ゲーム中、ゲームオーバー、ゲームクリアなどのBGM | `Assets/Music Packs/Ambient Sci-Fi/...` 由来の音声を使用 |
-| その他一部SE | ボタン、射撃、スロー、ポーズ、警告など | 正式な素材名と配布元は要確認 |
-
-## License Notes
-
-このリポジトリ自体のライセンスは未設定です。ソースコードや自作素材の利用条件を公開する場合は、別途ライセンスを追加してください。
-
-Unity Asset Store 由来の素材は、それぞれのアセットのライセンスおよび Unity Asset Store EULA に従ってください。

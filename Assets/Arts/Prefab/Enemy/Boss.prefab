@@ -183,7 +183,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f6949ff16b417449943ae8c86ffd129, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossController
-  maxHp: 10
+  maxHp: 40
   scoreValue: 5000
   attackInterval: 2
   moveSpeed: 2
@@ -214,7 +214,7 @@ MonoBehaviour:
   - {fileID: 5947906029207265157}
   - {fileID: 9185944531983147083}
   bulletSpeed: 5
-  bulletLifeTime: 6
+  bulletLifeTime: 5
   bulletDamage: 1
 --- !u!1 &4987119938801998728
 GameObject:
